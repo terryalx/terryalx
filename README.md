@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Terry. This is my studay account for a SWE course with @ALX
-- 👀 I’m interested in SWE and Programming
+- 👋 Hi, My name is Terry. This is my study account for a SWE course with @ALX
+- 👀 I’m interested in SWE and Cloud DevOps!
 - 🌱 I’m currently learning SWE @ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... setalxswe@gmail.com
